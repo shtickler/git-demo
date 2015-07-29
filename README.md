@@ -2,8 +2,4 @@
 
 this is the first file in this repo.
 
-## Ipsum Below
-
-viral swag man
-
-yet some more ipsum
+preparing to commit other files to repo
